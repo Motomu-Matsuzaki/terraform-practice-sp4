@@ -54,3 +54,4 @@ resource "aws_glue_job" "sprint3_customer_csv_normalize_parquet" {
     "--enable-observability-metrics" = "true"
   }
 }
+# Dummy comment
