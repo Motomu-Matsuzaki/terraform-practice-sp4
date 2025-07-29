@@ -1,0 +1,8 @@
+# Terraform state and build artifacts
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+
+# Optional: exclude ZIP files
+*.zip
