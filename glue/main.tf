@@ -55,3 +55,4 @@ resource "aws_glue_job" "sprint3_customer_csv_normalize_parquet" {
   }
 }
 # Dummy comment
+# OIDC接続確認用のダミー変更
